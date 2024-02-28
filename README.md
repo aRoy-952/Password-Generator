@@ -17,11 +17,11 @@ Follow these steps to get the Password Generator app up and running:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/password-generator-app.git
+   git clone https://github.com/aRoy-952/Password-Generator.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd password-generator-app
+   cd Password-Generator
 
 3. **Install dependencies:**
    ```bash
